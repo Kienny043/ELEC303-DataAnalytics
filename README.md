@@ -1,14 +1,14 @@
 # 📊 Data Analytics – Individual Works Repository
 
-This repository contains my compiled individual works for the **Data Analytics(ELEC303)** subject.  
+This repository contains my compiled individual works for the **Data Analytics (ELEC303)** subject.  
 Each activity is organized and documented for easy reference, review, and grading purposes.
 
 ## 📁 Contents
-- Activity 1 – Data exploration and analysis using Python
-- Additional activities will be added as the course progresses
+- **Activity 1** – Data exploration and basic analysis using Python  
+- **Activity 2** – Road Accident Data Analysis (data cleaning, aggregation, and insights)
 
 ## 🛠 Tools and Technologies
-- Python (Pandas, NumPy, Scipy)
+- Python (Pandas, NumPy, SciPy, Matplotlib/Seaborn)
 - Jupyter Notebook
 - Git & GitHub
 
